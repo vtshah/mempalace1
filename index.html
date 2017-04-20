@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <title>Babylon.js sample code</title>
+        <!-- Babylon.js -->
+        <script src="http://www.babylonjs.com/hand.minified-1.2.js"></script>
+        <script src="http://www.babylonjs.com/cannon.js"></script>
+        <script src="http://www.babylonjs.com/oimo.js"></script>
+        <script src="http://www.babylonjs.com/babylon.js"></script>
+        <style>
+            html, body {
+                overflow: hidden;
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            #renderCanvas {
+                width: 100%;
+                height: 100%;
+                touch-action: none;
+            }
+        </style>
+    </head>
+<body>
+    <div id="canvasZone">
+        <canvas id="renderCanvas"></canvas>
+    </div>
+    <script>
+    if (BABYLON.Engine.isSupported()) {
+        var canvas = document.getElementById("renderCanvas");
+        var engine = new BABYLON.Engine(canvas, true);
+
+        BABYLON.SceneLoader.Load("", "room.babylon", engine, function (newScene) {
+            // Wait for textures and shaders to be ready
+            newScene.executeWhenReady(function () {
+                // Attach camera to canvas inputs
+                //newScene.activeCamera.attachControl(canvas);
+                var camera = new BABYLON.WebVRFreeCamera("camera1", new BABYLON.Vector3(0, 0, 0), newScene, false, { trackPosition: true });
+                camera.deviceScaleFactor = 1;
+
+    // required for chrome
+    newScene.onPointerDown = function () {
+        newScene.onPointerDown = undefined;
+        camera.attachControl(canvas, true);
+        camera.controllers.forEach((gp) => {
+            console.log(gp);
+            let mesh = gp.hand === 'right' ? rightBox : leftBox;
+
+            gp.onPadValuesChangedObservable.add(function (stateObject) {
+                let r = (stateObject.x + 1) / 2;
+                let g = (stateObject.y + 1) / 2;
+                mesh.material.diffuseColor.copyFromFloats(r, g, 1);
+            });
+            gp.onTriggerStateChangedObservable.add(function (stateObject) {
+                let scale = 2 - stateObject.value;
+                mesh.scaling.x = scale;
+            });
+            // oculus only
+            /*gp.onSecondaryTriggerStateChangedObservable.add(function (stateObject) {
+                let scale = 2 - stateObject.value;
+                mesh.scaling.z = scale;
+            });*/
+            gp.attachToMesh(mesh);
+        });
+    }
+
+                // Once the scene is loaded, just register a render loop to render it
+                engine.runRenderLoop(function() {
+                    newScene.render();
+                });
+            });
+        }, function (progress) {
+            // To do: give progress feedback to user
+        });
+    }
+</script>
+</body>
+</html>

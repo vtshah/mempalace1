@@ -1,0 +1,937 @@
+	Exporter version: 4.6.1, Blender version: 2.78 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  /home/b5er/Desktop/MemPalace_Babylon/
+	Python World class constructor completed
+	processing begun of mesh:  Box015
+		processing begun of Standard material:  wire_115115115
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box044
+		processing begun of Standard material:  01___Default
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cylinder060
+		processing begun of Standard material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Box053
+		registered as also a user of material:  wire_115115115
+		num positions      :  4802
+		num normals        :  4802
+		num uvs            :  9604
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Box027
+		registered as also a user of material:  wire_115115115
+		num positions      :  2498
+		num normals        :  2498
+		num uvs            :  4996
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5028
+	processing begun of mesh:  Cylinder021
+		registered as also a user of material:  01___Default
+		num positions      :  155
+		num normals        :  155
+		num uvs            :  310
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Box051
+		registered as also a user of material:  wire_115115115
+		num positions      :  4803
+		num normals        :  4803
+		num uvs            :  9606
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Box058
+		processing begun of Standard material:  double_sopha_wood_right_texture
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box031
+		processing begun of Standard material:  tv_s_base_floor
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box024
+		registered as also a user of material:  wire_115115115
+		num positions      :  4802
+		num normals        :  4802
+		num uvs            :  9604
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Box029
+		processing begun of Standard material:  tv_s_back_wall
+		registered as also a user of material:  wire_115115115
+		processing begun of multimaterial:  room.Multimaterial#0
+		num positions      :  4825
+		num normals        :  4825
+		num uvs            :  9650
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20226
+	processing begun of mesh:  Object002
+		processing begun of Standard material:  Material__73
+		registered as also a user of material:  tv_s_base_floor
+		processing begun of Standard material:  toilet_tile
+		registered as also a user of material:  wire_115115115
+		processing begun of multimaterial:  room.Multimaterial#1
+		num positions      :  200
+		num normals        :  200
+		num uvs            :  400
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  561
+	processing begun of mesh:  Box050
+		registered as also a user of material:  wire_115115115
+		num positions      :  4801
+		num normals        :  4801
+		num uvs            :  9602
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Cylinder002
+		processing begun of Standard material:  transtucent_lamp
+		num positions      :  132
+		num normals        :  132
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+	processing begun of mesh:  Object003
+		processing begun of Standard material:  toilet_wood_stor_1
+		num positions      :  199
+		num normals        :  199
+		num uvs            :  398
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+	processing begun of mesh:  Cylinder054
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Box048
+		processing begun of Standard material:  sopha_wood_texture
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box037
+		registered as also a user of material:  wire_115115115
+		num positions      :  11718
+		num normals        :  11718
+		num uvs            :  23436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60480
+	processing begun of mesh:  Object004
+		processing begun of Standard material:  bed_box
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder051
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder084
+		registered as also a user of material:  01___Default
+		num positions      :  155
+		num normals        :  155
+		num uvs            :  310
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Box067
+		registered as also a user of material:  01___Default
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box023
+		registered as also a user of material:  wire_115115115
+		num positions      :  4802
+		num normals        :  4802
+		num uvs            :  9604
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Box039
+		registered as also a user of material:  wire_115115115
+		num positions      :  11743
+		num normals        :  11743
+		num uvs            :  23486
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60480
+	processing begun of mesh:  Box026
+		processing begun of Standard material:  toilet_wood_stor_2
+		registered as also a user of material:  wire_115115115
+		processing begun of multimaterial:  room.Multimaterial#2
+		num positions      :  5115
+		num normals        :  5115
+		num uvs            :  10230
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20604
+	processing begun of mesh:  Cylinder098
+		registered as also a user of material:  01___Default
+		num positions      :  4972
+		num normals        :  4972
+		num uvs            :  9944
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  25332
+	processing begun of mesh:  Plane004
+		registered as also a user of material:  wire_115115115
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Object005
+		processing begun of Standard material:  wood_wall
+		num positions      :  21
+		num normals        :  21
+		num uvs            :  42
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder062
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Box040
+		registered as also a user of material:  wire_115115115
+		num positions      :  11742
+		num normals        :  11742
+		num uvs            :  23484
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60480
+	processing begun of mesh:  Box070
+		registered as also a user of material:  tv_s_base_floor
+		num positions      :  450
+		num normals        :  450
+		num uvs            :  900
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  996
+	processing begun of mesh:  Box034
+		processing begun of Standard material:  tv_plastic
+		processing begun of Standard material:  tv_mate_plastic
+		processing begun of Standard material:  tv_desktop
+		processing begun of Standard material:  tv_lamp_shawar_croma
+		processing begun of multimaterial:  room.Multimaterial#3
+		num positions      :  272
+		num normals        :  272
+		num uvs            :  544
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  828
+	processing begun of mesh:  Box022
+		registered as also a user of material:  double_sopha_wood_right_texture
+		registered as also a user of material:  wire_115115115
+		processing begun of multimaterial:  room.Multimaterial#4
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  110
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cylinder010
+		registered as also a user of material:  01___Default
+		num positions      :  4974
+		num normals        :  4974
+		num uvs            :  9948
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  25332
+	processing begun of mesh:  Cylinder087
+		registered as also a user of material:  01___Default
+		num positions      :  155
+		num normals        :  155
+		num uvs            :  310
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Box069
+		registered as also a user of material:  01___Default
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder063
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Box062
+		registered as also a user of material:  01___Default
+		num positions      :  74
+		num normals        :  74
+		num uvs            :  148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cylinder070
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder052
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder003
+		registered as also a user of material:  transtucent_lamp
+		num positions      :  133
+		num normals        :  133
+		num uvs            :  266
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+	processing begun of mesh:  Plane002
+		registered as also a user of material:  wire_115115115
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder096
+		registered as also a user of material:  01___Default
+		num positions      :  154
+		num normals        :  154
+		num uvs            :  308
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Box052
+		registered as also a user of material:  wire_115115115
+		num positions      :  4803
+		num normals        :  4803
+		num uvs            :  9606
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Cylinder092
+		registered as also a user of material:  01___Default
+		num positions      :  155
+		num normals        :  155
+		num uvs            :  310
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cylinder093
+		registered as also a user of material:  01___Default
+		num positions      :  154
+		num normals        :  154
+		num uvs            :  308
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Object006
+		processing begun of Standard material:  door
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12
+	processing begun of mesh:  Cylinder059
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder011
+		registered as also a user of material:  01___Default
+		num positions      :  732
+		num normals        :  732
+		num uvs            :  1464
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3840
+	processing begun of mesh:  Box028
+		registered as also a user of material:  wire_115115115
+		num positions      :  12788
+		num normals        :  12788
+		num uvs            :  25576
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20724
+	processing begun of mesh:  Box043
+		registered as also a user of material:  01___Default
+		num positions      :  75
+		num normals        :  75
+		num uvs            :  150
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Line001
+		registered as also a user of material:  wire_115115115
+		num positions      :  14927
+		num normals        :  14927
+		num uvs            :  29854
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  16500
+	processing begun of mesh:  Box041
+		registered as also a user of material:  tv_lamp_shawar_croma
+		num positions      :  958
+		num normals        :  958
+		num uvs            :  1916
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4962
+	processing begun of mesh:  Cylinder004
+		registered as also a user of material:  tv_lamp_shawar_croma
+		num positions      :  246
+		num normals        :  246
+		num uvs            :  492
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Box061
+		processing begun of Standard material:  alhmari
+		num positions      :  258
+		num normals        :  258
+		num uvs            :  516
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+	processing begun of mesh:  Box006
+		registered as also a user of material:  wire_115115115
+		num positions      :  287
+		num normals        :  287
+		num uvs            :  574
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1080
+	processing begun of mesh:  Cylinder088
+		registered as also a user of material:  01___Default
+		num positions      :  732
+		num normals        :  732
+		num uvs            :  1464
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3840
+	processing begun of mesh:  Cylinder068
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Plane001
+		registered as also a user of material:  wire_115115115
+		num positions      :  143
+		num normals        :  143
+		num uvs            :  286
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  486
+	processing begun of mesh:  Box068
+		registered as also a user of material:  wire_115115115
+		num positions      :  11718
+		num normals        :  11718
+		num uvs            :  23436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60480
+	processing begun of mesh:  Cylinder095
+		registered as also a user of material:  01___Default
+		num positions      :  156
+		num normals        :  156
+		num uvs            :  312
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cylinder082
+		registered as also a user of material:  01___Default
+		num positions      :  155
+		num normals        :  155
+		num uvs            :  310
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Box057
+		processing begun of Standard material:  20___Default
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box016
+		registered as also a user of material:  wire_115115115
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box055
+		registered as also a user of material:  wire_115115115
+		num positions      :  4804
+		num normals        :  4804
+		num uvs            :  9608
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Box017
+		registered as also a user of material:  20___Default
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box003
+		processing begun of Standard material:  study_table
+		num positions      :  132
+		num normals        :  132
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  Object007
+		processing begun of Standard material:  floor
+		num positions      :  22
+		num normals        :  22
+		num uvs            :  44
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  66
+	processing begun of mesh:  Box047
+		registered as also a user of material:  wire_115115115
+		num positions      :  4804
+		num normals        :  4804
+		num uvs            :  9608
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Box030
+		registered as also a user of material:  tv_s_base_floor
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder001
+		registered as also a user of material:  transtucent_lamp
+		num positions      :  246
+		num normals        :  246
+		num uvs            :  492
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder019
+		registered as also a user of material:  tv_lamp_shawar_croma
+		num positions      :  206
+		num normals        :  206
+		num uvs            :  412
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  960
+	processing begun of mesh:  Box066
+		registered as also a user of material:  01___Default
+		num positions      :  71
+		num normals        :  71
+		num uvs            :  142
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Box033
+		registered as also a user of material:  tv_lamp_shawar_croma
+		num positions      :  786
+		num normals        :  786
+		num uvs            :  1572
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1380
+	processing begun of mesh:  Box025
+		registered as also a user of material:  wire_115115115
+		num positions      :  4802
+		num normals        :  4802
+		num uvs            :  9604
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Box063
+		registered as also a user of material:  01___Default
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cylinder086
+		registered as also a user of material:  01___Default
+		num positions      :  155
+		num normals        :  155
+		num uvs            :  310
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Box049
+		registered as also a user of material:  wire_115115115
+		num positions      :  4802
+		num normals        :  4802
+		num uvs            :  9604
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Cylinder066
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder091
+		registered as also a user of material:  01___Default
+		num positions      :  732
+		num normals        :  732
+		num uvs            :  1464
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3840
+	processing begun of mesh:  Cylinder097
+		registered as also a user of material:  01___Default
+		num positions      :  155
+		num normals        :  155
+		num uvs            :  310
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Box032
+		registered as also a user of material:  tv_plastic
+		num positions      :  5142
+		num normals        :  5142
+		num uvs            :  10284
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  17748
+	processing begun of mesh:  Cylinder069
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Box018
+		registered as also a user of material:  alhmari
+		num positions      :  257
+		num normals        :  257
+		num uvs            :  514
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+	processing begun of mesh:  Cylinder065
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Sphere001
+		registered as also a user of material:  transtucent_lamp
+		num positions      :  1134
+		num normals        :  1134
+		num uvs            :  2268
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6138
+	processing begun of mesh:  Cylinder090
+		registered as also a user of material:  01___Default
+		num positions      :  732
+		num normals        :  732
+		num uvs            :  1464
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3840
+	processing begun of mesh:  Box054
+		registered as also a user of material:  double_sopha_wood_right_texture
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Sphere002
+		registered as also a user of material:  tv_lamp_shawar_croma
+		num positions      :  1134
+		num normals        :  1134
+		num uvs            :  2268
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6138
+	processing begun of mesh:  Box035
+		processing begun of Standard material:  scenre
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Box019
+		registered as also a user of material:  wire_115115115
+		num positions      :  4804
+		num normals        :  4804
+		num uvs            :  9608
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Cylinder020
+		registered as also a user of material:  01___Default
+		num positions      :  1153
+		num normals        :  1153
+		num uvs            :  2306
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6144
+	processing begun of mesh:  Cylinder085
+		registered as also a user of material:  01___Default
+		num positions      :  1153
+		num normals        :  1153
+		num uvs            :  2306
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6144
+	processing begun of mesh:  Box021
+		registered as also a user of material:  wire_115115115
+		num positions      :  4802
+		num normals        :  4802
+		num uvs            :  9604
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20196
+	processing begun of mesh:  Box038
+		registered as also a user of material:  wire_115115115
+		num positions      :  11726
+		num normals        :  11726
+		num uvs            :  23452
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60480
+	processing begun of mesh:  Cylinder064
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Box020
+		registered as also a user of material:  double_sopha_wood_right_texture
+		registered as also a user of material:  tv_s_base_floor
+		processing begun of multimaterial:  room.Multimaterial#5
+		num positions      :  480
+		num normals        :  480
+		num uvs            :  960
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1032
+	processing begun of mesh:  Box046
+		registered as also a user of material:  double_sopha_wood_right_texture
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box065
+		registered as also a user of material:  01___Default
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cylinder061
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Plane003
+		registered as also a user of material:  wire_115115115
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box056
+		registered as also a user of material:  double_sopha_wood_right_texture
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder089
+		registered as also a user of material:  01___Default
+		num positions      :  1153
+		num normals        :  1153
+		num uvs            :  2306
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6144
+	processing begun of mesh:  Cylinder018
+		registered as also a user of material:  tv_lamp_shawar_croma
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder067
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder099
+		registered as also a user of material:  01___Default
+		num positions      :  1153
+		num normals        :  1153
+		num uvs            :  2306
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6144
+	processing begun of mesh:  Box045
+		registered as also a user of material:  sopha_wood_texture
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Box064
+		registered as also a user of material:  01___Default
+		num positions      :  71
+		num normals        :  71
+		num uvs            :  142
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Box002
+		processing begun of Standard material:  bed
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder083
+		registered as also a user of material:  01___Default
+		num positions      :  153
+		num normals        :  153
+		num uvs            :  306
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cylinder094
+		registered as also a user of material:  01___Default
+		num positions      :  155
+		num normals        :  155
+		num uvs            :  310
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  282
+	processing begun of mesh:  Cylinder053
+		registered as also a user of material:  crome
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cube
+		processing begun of Standard material:  Material
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of light (AREA):  Area
+	processing begun of light (POINT):  Point
+	processing begun of light (POINT):  Lamp
+	processing begun of light (SPOT):  Point.001
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 6.4549 secs
